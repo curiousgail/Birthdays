@@ -1,2 +1,2 @@
 # Birthdays
-A game to celebrate nuisance
+A game to celebrate naissance, mischief and exploration ...
